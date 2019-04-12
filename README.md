@@ -1,5 +1,7 @@
 # Slack Custom Emoji Import
 
+**This tool is now abandoned, after Slack changed the way the emoji pages work**
+
 Hacked this thing up to import over 500 emoji into a new Slack from another Slack.
 
 # Setup
